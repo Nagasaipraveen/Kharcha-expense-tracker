@@ -94,3 +94,5 @@ This project is currently developed as an academic and portfolio project.
 ![Kharcha Insights](Screenshot%202026-11-05%20132928.png)
 
 Data Management & Testing – 248x1a0513-arch: Responsible for contributing to the data management functionality of the Kharcha Expense Tracker, including expense data organization, storage and retrieval improvements, data consistency, and application testing. The role focuses on improving data reliability, identifying issues, and ensuring a smooth and accurate expense-tracking experience.
+
+Analytics & Reports – Saakethnch: Responsible for developing and improving the Analytics and Insights module of the Kharcha Expense Tracker. Focuses on generating monthly expense summaries, category-wise spending breakdowns, visual charts, and spending trends to help users understand their financial habits and make better budgeting decisions.
