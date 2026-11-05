@@ -81,3 +81,5 @@ The main objective of Kharcha is to provide a simple and convenient way for user
 📄 License
 
 This project is currently developed as an academic and portfolio project.
+
+Analytics & Reports – Saakethnch: Responsible for developing and improving the Analytics and Insights module of the Kharcha Expense Tracker. Focuses on generating monthly expense summaries, category-wise spending breakdowns, visual charts, and spending trends to help users understand their financial habits and make better budgeting decisions.
