@@ -81,3 +81,14 @@ The main objective of Kharcha is to provide a simple and convenient way for user
 📄 License
 
 This project is currently developed as an academic and portfolio project.
+
+## 📱 App Screenshots
+
+### Dashboard
+![Kharcha Dashboard](Screenshot%202026-11-05%20132806.png)
+
+### Expense Management
+![Expense Management](Screenshot%202026-11-05%20132841.png)
+
+### Insights
+![Kharcha Insights](Screenshot%202026-11-05%20132928.png)
